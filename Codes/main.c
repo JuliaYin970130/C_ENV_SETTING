@@ -9,6 +9,7 @@ int main(int argc, char *argv[]) {
 
     printf("this is my first program\n");
     printf("test!");
+    printf("another test");
 
     return 0;
 }
